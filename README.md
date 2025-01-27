@@ -1,2 +1,1 @@
 # Power.bi
-# Power.bi

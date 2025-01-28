@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-// filepath: /c:/Users/jose7/OneDrive/Área de Trabalho/Power.bi/.git/COMMIT_EDITMSG
-Atualização dos relatórios e README.md# Power.bi
+### Power bi
 
 ## Descrição do Projeto
 

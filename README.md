@@ -1,4 +1,4 @@
-### Power bi
+# Power bi
 
 ## Descrição do Projeto
 
@@ -30,5 +30,3 @@ Este repositório contém projetos de análise de negócios desenvolvidos utiliz
 Sinta-se à vontade para contribuir com melhorias ou novos projetos. Para isso, faça um fork deste repositório, crie uma nova branch, e envie um pull request.
 
 =======
-# Power.bi
->>>>>>> 6a8c8ce40ec923af8e596159c24e9edf35177613

@@ -15,6 +15,7 @@ Este repositório contém projetos de análise de negócios desenvolvidos utiliz
 - **Análise de Vendas**: Identificar tendências de vendas, produtos mais vendidos, e desempenho por região.
 - **Análise de Clientes**: Entender o comportamento dos clientes, segmentação de mercado, e análise de churn.
 - **Análise Financeira**: Monitorar indicadores financeiros, fluxo de caixa, e análise de despesas.
+- ![Matriz de correlaçao](https://github.com/ElenirOliveira/Telecomx-2/blob/main/matriz%20de%20confusao.png)
 
 ## Como Utilizar
 
